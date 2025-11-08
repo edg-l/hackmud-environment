@@ -51,8 +51,7 @@ a subscript's args or use an unsupported type in a DB query.
 ## First Time Setup
 1. Install [Node.JS](https://nodejs.org/en/download) and [PNPM](https://pnpm.io/installation)
 2. Download this template:
-   - If you have [Git installed](https://git-scm.com/downloads), make a new folder, `cd` to it, and run `pnpm dlx tiged samualtnorman/hackmud-environment`
-   - Otherwise, [click here to download the ZIP](https://github.com/samualtnorman/hackmud-environment/archive/refs/heads/main.zip) and extract it somewhere, then `cd` to it
+   - If you have [Git installed](https://git-scm.com/downloads), make a new folder, `cd` to it, and run `pnpm dlx tiged edg-l/hackmud-environment`
 4. Run `pnpm install`
 
 Once you have everything setup, you just need to open the folder in your editor of choice.
