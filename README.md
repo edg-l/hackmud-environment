@@ -1,3 +1,31 @@
+### Note: This is a somewhat updated fork of https://github.com/samualtnorman/hackmud-script-manager#readme published at hackmud-script-manager-next
+
+Changes:
+
+- Fixed expose_balance and expose_access_log return types
+- Added delist arg to market.sell
+- Added marks scripts
+
+### Upgrading from samualtnorman/hackmud-script-manager
+
+
+in tsconfig.json change the following line (note the -next):
+
+```
+"types": [ "hackmud-script-manager-next/env" ],
+```
+
+In package.json change `hackmud-script-manager` to `hackmud-script-manager-next` and update the version.
+
+```json
+"hackmud-script-manager-next": "0.25.1",
+```
+
+Run
+
+`pnpm i`
+
+
 # Hackmud Scripting Environment
 This is for the game [hackmud](https://hackmud.com/). If you don't know what that is, you should go away and play it!
 
