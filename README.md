@@ -6,7 +6,7 @@ Changes:
 - Added delist arg to market.sell
 - Added marks scripts
 
-### Upgrading from samualtnorman/hackmud-script-manager
+### Upgrading in an existing samualtnorman/hackmud-environment
 
 
 in tsconfig.json change the following line (note the -next):
