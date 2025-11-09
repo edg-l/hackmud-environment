@@ -18,7 +18,7 @@ in tsconfig.json change the following line (note the -next):
 In package.json change `hackmud-script-manager` to `hackmud-script-manager-next` and update the version.
 
 ```json
-"hackmud-script-manager-next": "0.25.1",
+"hackmud-script-manager-next": "0.25.2",
 ```
 
 Run
